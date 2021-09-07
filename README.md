@@ -33,4 +33,4 @@
 
 * 流水线CPU
 
-  ![image](https://github.com/lanofblue/RISC-V-CPU/blob/master/datapath_single.png)
+  ![image](https://github.com/lanofblue/RISC-V-CPU/blob/master/datapath_pipeline.png)
