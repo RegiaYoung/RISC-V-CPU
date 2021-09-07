@@ -22,3 +22,16 @@
   单周期CPU：25MHz
 
   流水线CPU：70MHz
+
+
+
+## 数据通路
+
+* 单周期CPU
+
+  ![image-20210907094149225](C:\Users\Blue\AppData\Roaming\Typora\typora-user-images\image-20210907094149225.png)
+
+* 流水线CPU
+
+  ![image-20210907094231245](C:\Users\Blue\AppData\Roaming\Typora\typora-user-images\image-20210907094231245.png)
+
